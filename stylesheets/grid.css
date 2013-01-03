@@ -29,9 +29,8 @@
 .grid_10,
 .grid_11,
 .grid_12 {
-	margin-left: 0.83333333333333%;
-	margin-right: 0.83333333333333%;
-	float: left;
+	margin: auto;
+	float:left;
 	display: block;
 }
 
