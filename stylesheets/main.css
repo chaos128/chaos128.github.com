@@ -1,10 +1,19 @@
+header{
+	min-width: 1080px; 
+	max-width: 1080px; 
+	margin: auto;
+}
+
 body{
 	
 }
 
+.div_navbar{
+	background-color: lightblue;
+}
+
 .div_title {
 	color: white;
-	background: lightblue;
 	text-align: center;
 }
 
@@ -13,23 +22,32 @@ body{
 	margin: 10px;
 }
 
-.div_navbar ul{
+.div_sections ul{
+	margin-top: 30px;
 	float: right;
 	list-style: none;
 }
 
-.div_navbar li{
+.div_sections li{
+	margin-left: 30px;
 	display: inline;
 }
 
 a{
-	
 	text-decoration: none;
+}
+
+.info{
+	padding-left: 10px;
+}
+.div_img h1{
+	text-align: center;
 }
 
 .div_img img{
 	display: block ;
 	margin: auto;
+	padding: 20px;
 }
 
 .div_resume h1{

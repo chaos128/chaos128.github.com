@@ -40,7 +40,8 @@
 .container{
 	min-width: 1080px; 
 	max-width: 1080px; 
-	margin: auto;
+	margin: 100px auto auto auto;
+	
 }
 
 /* @

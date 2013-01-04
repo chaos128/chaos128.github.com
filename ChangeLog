@@ -1,0 +1,68 @@
+commit f47699dbe065c63779da422855c9698f4c8d6dc7
+Author: chaos128 <chaos0128@gmail.com>
+Date:   Thu Jan 3 16:27:17 2013 +0900
+
+    Add main.css grid.css resume.html
+
+commit e762f668e97cc144598ab56f0b51c08764f1a561
+Author: chaos128 <chaos0128@gmail.com>
+Date:   Thu Jan 3 14:55:30 2013 +0900
+
+    start coding with title
+
+commit 74530c74644da0b394212e95a0d25621602c1966
+Author: chaos128 <chaos0128@gmail.com>
+Date:   Thu Jan 3 12:06:30 2013 +0900
+
+    fifth
+
+commit 934b282b9527c3110f4374a68fc49dd2d69bfbe1
+Author: chaos128 <chaos0128@gmail.com>
+Date:   Thu Jan 3 12:04:50 2013 +0900
+
+    Revert "fourth change"
+    
+    This reverts commit db7d5b93d02595e0de4e260f5b16b5e620aed9ca.
+
+commit db7d5b93d02595e0de4e260f5b16b5e620aed9ca
+Author: chaos128 <chaos0128@gmail.com>
+Date:   Wed Jan 2 17:36:17 2013 +0900
+
+    fourth change
+
+commit 44a79fdc73c08bb1caba8be7fddca39964c168f2
+Author: chaos128 <chaos0128@gmail.com>
+Date:   Wed Jan 2 00:09:22 2013 -0800
+
+    Replace master branch with page content via GitHub
+
+commit a0908c1d145e392ce95f2efe14085d32793b7f9c
+Author: chaos128 <chaos0128@gmail.com>
+Date:   Wed Jan 2 16:40:38 2013 +0900
+
+    third
+
+commit fd1de13dde1b197ffcf60758ef682391f568be03
+Merge: c22978b 14e148b
+Author: chaos128 <chaos0128@gmail.com>
+Date:   Wed Jan 2 16:33:28 2013 +0900
+
+    second
+
+commit 14e148bdccdcc9345610871e12987b1dc76f4b49
+Author: chaos128 <chaos0128@gmail.com>
+Date:   Wed Jan 2 16:15:19 2013 +0900
+
+    first page commit
+
+commit c22978bb0d06d343a79789be22ba688126ddf879
+Author: chaos128 <chaos0128@gmail.com>
+Date:   Tue Jan 1 22:51:31 2013 -0800
+
+    Replace master branch with page content via GitHub
+
+commit 3cf52c68fdda41e467fe6fca94979ea7ebf6383b
+Author: chaos128 <chaos0128@gmail.com>
+Date:   Wed Jan 2 15:48:11 2013 +0900
+
+    first commit
