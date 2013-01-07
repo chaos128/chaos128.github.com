@@ -1,0 +1,90 @@
+.div_name {
+	display: table;
+	padding-top: 70px; 
+}
+
+.div_sections ul {
+	margin-top: 30px;
+	float: right;
+	list-style: none;
+	margin-right: 15px;
+}
+
+.div_sections li {
+	margin-left: 35px;
+	display: inline;
+}
+
+.div_title a {
+	text-decoration: none;
+	color: white;
+	font-size: 50px;
+	text-align: center;
+}
+
+.div_sections ul li a {
+	text-decoration: none;
+	color: black;
+	font-size: 20px;
+}
+
+.div_sections ul li a:hover {
+	text-decoration: underline;
+	color: black;
+	font-size: 20px;
+}
+
+.info {
+	padding-left: 10px;
+}
+
+.div_img h1 {
+	text-align: center;
+}
+
+.div_img img {
+	display: block ;
+	margin: auto;
+	padding: 20px;
+}
+
+.div_resume p {
+	font-size: 20px;
+	background-image: url('hanyanglogo.jpg');
+	background-repeat: no-repeat;
+	background-position: center;
+	
+}
+.div_resume h1 {
+	text-align: center;
+	font-size: 40px;
+}
+
+
+.div_firstname a {
+	color: #C8BBBE;
+	float: right;
+	text-decoration: none;
+	font-size: 80px;
+}
+
+.div_lastname a {
+	color: black;
+	float: left;
+	text-decoration: none;
+	font-size: 60px;
+	padding-top: 40px;
+}
+
+.profile_img {
+	position: absolute;
+	top: 120px;
+	left: 250px;
+}
+
+#background {
+	position: absolute;
+	width: 100%;
+	z-index: -1;
+	height: auto;
+}
